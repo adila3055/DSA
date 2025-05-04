@@ -1,4 +1,3 @@
-     # DSA  
+# DSA  
 
-     
-      Dsa Practice Code Here 
+Dsa Practice Code Here 
